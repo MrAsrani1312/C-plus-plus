@@ -1,4 +1,4 @@
-I BASIC CONCEPTS
+#I BASIC CONCEPTS
 
 1 Hello World! - Your first program and an introduction to C++
 
@@ -26,7 +26,7 @@ I BASIC CONCEPTS
 
 13 Type Conversion : Explicit(Done by the Programmer)
 
-II. CONDITION HANDLING AND LOOPS
+#II. CONDITION HANDLING AND LOOPS
 
 14 Need for Condition handling
 
@@ -44,7 +44,7 @@ i Pattern Programs in for loops
 
 20 Do-While loop
 
-III ARRAYS AND FUNCTIONS
+#III ARRAYS AND FUNCTIONS
 
 21 Need for Arrays and an Introduction to arrays .
 
@@ -70,7 +70,7 @@ III ARRAYS AND FUNCTIONS
 
 32 Call by Value and Call by Reference
 
-IV CLASSES AND OBJECTS
+#IV CLASSES AND OBJECTS
 
 33 What are objects and classes
 
@@ -84,7 +84,7 @@ IV CLASSES AND OBJECTS
 
 38 Operator Overloading
 
-V  FILE HANDLING
+#V  FILE HANDLING
 
 39 Data Input from files
 
@@ -106,4 +106,4 @@ VII EXCEPTION HANDLING AND TEMPLATES
 
 46 Function and Class Templates
 
-NOTE : Changes will be made in the future to make certain topics more granular(Especially in Inheritance and file handling).
+NOTE : Changes will be made in the future to make certain topics more granular.
