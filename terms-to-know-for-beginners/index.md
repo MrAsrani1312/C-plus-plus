@@ -1,5 +1,5 @@
 ---
-title : IDE and printing different text 
+IDE and Printing different text 
 ---
 
 # Introduction to an IDE and printing different text : 
@@ -7,9 +7,11 @@ title : IDE and printing different text
 * In the last article, some download links for software required for programming . Software like this is known as an IDE.
 **IDE stands for Integrated Development Environment**
 #### IDEs mainly consist of 3 kinds of software :
-1 Editor : A slightly modified text editor to make coding easy. 
-2 Debugger : Software that helps you find errors in your program , and resolve them before execution. Imagine FaceBook crashing on loading an application or a simple application crash. To prevent faulty execution of a program, the debgger is a programmer's best friend.  
-3 Compiler : A compiler is that part of the computer which converts your high level program code to simple machine code : 0s & 1s ; so that a computer understands the commands and executes them. From now on , we will be uding the word **compiler** frequently.
+**1 Editor :** A slightly modified text editor to make coding easy. An example of an editor for coding is Notepad++.
+
+**2 Debugger :** Software that helps you find errors in your program , and resolve them before execution. Imagine FaceBook crashing on loading an application or a game crashing all of a ssudden. To prevent faulty execution of a program, the debugger is a programmer's best friend.  
+
+**3 Compiler :** A compiler is that part of the computer which converts your high level program code to simple machine code : 0s & 1s ; so that a computer understands the commands and executes them. From now on , we will be uding the word **compiler** frequently.
 
 ***Q : Try searching for an IDE on Google and run your first program on it . Check the output ***
 
@@ -45,6 +47,7 @@ The output will be : *I Love freeCodeCamp !*
     cout<<"Hello World!\t I love freeCodeCamp!";
 ```
 The output will be something different this time :
+
 ![Image](https://github.com/MrAsrani1312/Images/blob/master/out2.1.PNG)
  
  If you realised , the "\t" command created a tab space between the two texts . This is one kind of special command in C++. These special commands are known as *Escape Sequences* .
@@ -63,6 +66,7 @@ The output will be something different this time :
     cout<<"40158 \t 236708 ! \n \\ @ \?"<<endl;
 ```
 The output changes to : 
+
 ![Image](https://github.com/MrAsrani1312/Images/blob/master/out2.2.PNG)
 
 ##### Let's try some other ways of printing
@@ -70,14 +74,17 @@ The output changes to :
     cout<<"1+2"<<endl;
     cout<<1+2<<endl;
 ```
-![Imaage](https://github.com/MrAsrani1312/Images/blob/master/out2.3%20-%20Copy.PNG)
+Output : 
+
+![Image](https://github.com/MrAsrani1312/Images/blob/master/out2.3%20-%20Copy.PNG)
 * The first output statement is *1+2*
 * The second output statement is *3*
-Thus we can print different texts in C++.
+This is because we did not add the inverted commas for the second print statement and so, the compiler added the nuumbers before prrinting them. 
 
 #### Comments  :
 * Comments are an important feature of many programming languages . They allow the programmer to take notes for self help, and won't affect the running of the program . 
-  **The differentt types of comments and Syntax of a comment** :
+
+**The differentt types of comments and Syntax of a comment** :
   1 "//"  ~ _Single Line Comments_  : The length if these comments is that particular line it is typed on .
   2 "/* */"   ~ _Multi Line Comments_ : These comments cann take up a space of more than one line.
   
@@ -88,7 +95,10 @@ Thus we can print different texts in C++.
   I now end the comment.  :) */
  ```
  The output will be :
- ![Image]()
+
+![Image](https://github.com/MrAsrani1312/Images/blob/master/out2.4.PNG)
+ 
+ As you may notice, the comments are ignored during program execution and do not show up on checking the output of the program.
 
  _CONGRATULATIONS! You have reached the end of the second article_
  **Good Luck to all of you** 
