@@ -13,7 +13,7 @@ IDE and Printing different text
 
 **3 Compiler :** A compiler is that part of the computer which converts your high level program code to simple machine code : 0s & 1s ; so that a computer understands the commands and executes them. From now on , we will be uding the word **compiler** frequently.
 
-***Q : Try searching for an IDE on Google and run your first program on it . Check the output ***
+*Q : Try searching for an IDE on Google and run your first program on it . Check the output*
 
 Now, install the IDE and try changing the text from the program in the last article.
 
@@ -101,7 +101,11 @@ This is because we did not add the inverted commas for the second print statemen
  As you may notice, the comments are ignored during program execution and do not show up on checking the output of the program.
 
  _CONGRATULATIONS! You have reached the end of the second article_
+ 
  **Good Luck to all of you** 
+ 
  **Happy Coding ! :)**
+ 
  **Feel free to ask any queries on FreeCodeCamp's GitHub page or [FreeCodeCamp's Forum .](https://forum.freecodecamp.org/)**
+
 By Jaithra Bhatia and Hitarth Asrani.
