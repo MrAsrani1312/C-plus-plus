@@ -36,7 +36,7 @@
 
 17 Switch Statement
 
-18 Need for loops , For Loops
+18 Need for loops , For Loops 
 
 i Pattern Programs in for loops
 
